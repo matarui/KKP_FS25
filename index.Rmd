@@ -1,5 +1,5 @@
 ---
-title: "KKP"
+title: "Karrierekompetenzen für PsychologInnen"
 description: |
   Willkommen auf der Website für *Karrierekompetenzen für Psycholog\*innen* FS25 ([75723-01](https://vorlesungsverzeichnis.unibas.ch/de/vorlesungsverzeichnis?id=292389))
   
@@ -21,8 +21,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![Psychologie hat viele Gesichter! <span>Photo by <a href="https://unsplash.com/@amseaman?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Andrew Seaman</a> on <a href="https://unsplash.com/photos/gray-concrete-wall-4Fi_4Q6_eFM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></span>](photos/andrew-seaman-4Fi_4Q6_eFM-unsplash.jpg)
 
+# Kursbeschreibung
 
-      
+In diesem Kurs erkunden Studierende vielfältige Karrierewege in der Psychologie durch inspirierende Vorträge von Praktiker*innen aus unterschiedlichen Fachbereichen. In Zusammenarbeit mit Dr. Birgit Müller (Vizerektorat Lehre, Career Service Center) erwerben sie essenzielle Fähigkeiten für eine proaktive Karriereplanung und -vorbereitung. Der Fokus liegt auf praxisnahen Kompetenzen wie dem Erstellen eines professionellen Lebenslaufs, dem Verfassen überzeugender Motivationsschreiben sowie der erfolgreichen Teilnahme an Assessment-Centern und Bewerbungsgesprächen. Dieser Kurs bietet eine ideale Grundlage, um die berufliche Zukunft gezielt und selbstbewusst zu gestalten.
 
 # Sitzungen
 
@@ -47,8 +48,7 @@ Die Sitzungen finden mittwochs von 16:15 bis 17:45 im Chemiegebäude, Organische
 |14 | 28.05.2025 | TBD | |  |
 :::
 
-
-Diese Website wurde entwickelt, um Kursteilnehmenden einen Überblick über den Kurs zu verschaffen, einschließlich einer Liste der empfohlenen Lektüre (siehe unten) und der Kursfolien (siehe Tabelle oben). Ein [FAQ-Forum](https://adam.unibas.ch/goto_adam_crs_1942323.html) ist auf ADAM verfügbar.
+Ein [FAQ-Forum](https://adam.unibas.ch/goto_adam_crs_1942323.html) ist auf ADAM verfügbar.
 
 
 
