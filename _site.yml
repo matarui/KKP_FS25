@@ -1,7 +1,7 @@
-name: "KOGPSY"
-title: "KOGPSY"
+name: "KKP"
+title: "KKP"
 description: |
-  KOGPSY
+  KKP
 output_dir: "docs"
 navbar:
   logo:
