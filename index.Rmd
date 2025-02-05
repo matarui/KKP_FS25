@@ -41,8 +41,8 @@ Die Sitzungen finden mittwochs von 16:15 bis 17:45 im Chemiegebäude, Organische
 | 7 | 09.04.2025 | Neuropsychologie | [pdf](index.html) | Scheitter |
 | 8 | 16.04.2025 | Klinische Psychologie und Nachhaltigkeitskommunikation | [pdf](index.html) | Behr |
 | 9 | 23.04.2025 | Risikobeurteilungen im Berufskontext | [pdf](index.html) | Hardegger |
-| 10 | 30.04.2025 | TBD | |  |
-|11 | 07.05.2025 | Bewerbungsgespräch |   | Müller |
+| 10 | 30.04.2025 | UX | [pdf](index.html) | Reutimann |
+|11 | 07.05.2025 | Bewerbungsgespräch |  [pdf](index.html) | Müller |
 |12 | 14.05.2025 | TBD |  |  |
 |13 | 21.05.2025 | Prävention gegen Gewalt | [pdf](index.html)  | Coviello |
 |14 | 28.05.2025 | TBD | |  |
