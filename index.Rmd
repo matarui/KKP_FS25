@@ -32,19 +32,19 @@ Die Sitzungen finden mittwochs von 16:15 bis 17:45 im Chemiegebäude, Organische
 ::: l-body
 | # | Date     | Topic                         | Slides | Speaker |
 |---| ---------|-------------------------------|--------| --------|
-| 1 | 19.02.2025 | Intro | [pdf](index.html) | Mata/Doshi |
-| 2 | 26.02.2025 | Career preparedness | [pdf](index.html) | Müller |
-| 3 | 05.03.2025 | Paartherapie | [pdf](index.html)  | Newark |
-| 4 | 19.03.2025 | Curriculum Vitae | [pdf](index.html) | Müller |
-| 5 | 26.03.2025 | Sportpsychologie | [pdf](index.html) | Meyer |
-| 6 | 02.04.2025 | Motivationsschreiben | [pdf](index.html) | Müller |
-| 7 | 09.04.2025 | Neuropsychologie | [pdf](index.html) | Scheitter |
-| 8 | 16.04.2025 | Klinische Psychologie und Nachhaltigkeitskommunikation | [pdf](index.html) | Behr |
-| 9 | 23.04.2025 | Risikobeurteilungen im Berufskontext | [pdf](index.html) | Hardegger |
-| 10 | 30.04.2025 | UX | [pdf](index.html) | Reutimann |
-|11 | 07.05.2025 | Bewerbungsgespräch |  [pdf](index.html) | Müller |
-|12 | 14.05.2025 | Organisationspsychologie | [pdf](index.html) | Tschopp |
-|13 | 21.05.2025 | Prävention gegen Gewalt | [pdf](index.html)  | Coviello |
+| 1 | 19.02.2025 | Intro |  | Mata/Doshi |
+| 2 | 26.02.2025 | Career preparedness | | Müller |
+| 3 | 05.03.2025 | Paartherapie |  | Newark |
+| 4 | 19.03.2025 | Curriculum Vitae | | Müller |
+| 5 | 26.03.2025 | Sportpsychologie |  | Meyer |
+| 6 | 02.04.2025 | Motivationsschreiben | | Müller |
+| 7 | 09.04.2025 | Neuropsychologie | | Scheitter |
+| 8 | 16.04.2025 | Klinische Psychologie und Nachhaltigkeitskommunikation |  | Behr |
+| 9 | 23.04.2025 | Risikobeurteilungen im Berufskontext |  | Hardegger |
+| 10 | 30.04.2025 | UX | | Reutimann |
+|11 | 07.05.2025 | Bewerbungsgespräch |   | Müller |
+|12 | 14.05.2025 | Organisationspsychologie |  | Tschopp |
+|13 | 21.05.2025 | Prävention gegen Gewalt |  | Coviello |
 |14 | 28.05.2025 | TBD | |  |
 :::
 
@@ -55,27 +55,35 @@ Ein [FAQ-Forum](https://adam.unibas.ch/goto_adam_crs_1942323.html) ist auf ADAM 
 
 Dieser Kurs folgt einer Lehrveranstaltungsbegleitenden Leistungsüberprüfung. Da es keine Abschlussprüfung gibt, basiert die Bewertung ausschließlich auf praxisnahen Übungen zur Entwicklung karriererelevanter Kompetenzen.
  
-## 1. Karriereportfolio (40%)*
+### 1. Karriereportfolio (40%)*
 Eine strukturierte Abgabe, bestehend aus:
  
-*Curriculum Vitae (10%)* – Ein gut strukturiertes, professionelles und auf die Kursrichtlinien abgestimmtes einseitiges CV. (eine Seite; Abgabefrist: 26. März)
+*Curriculum Vitae (10%)*
+
+- Ein gut strukturiertes, professionelles und auf die Kursrichtlinien abgestimmtes einseitiges CV. (eine Seite; Abgabefrist: 26. März)
  
-*Motivationsschreiben (10%)* – Ein überzeugendes, individuell angepasstes Bewerbungsschreiben für eine spezifische Stelle oder ein Praktikum (eine Seite). (Abgabefrist: 9. April)
+*Motivationsschreiben (10%)*
+
+- Ein überzeugendes, individuell angepasstes Bewerbungsschreiben für eine spezifische Stelle oder ein Praktikum (eine Seite). (Abgabefrist: 9. April)
  
 *Vorbereitung auf das Vorstellungsgespräch (10%)* (Abgabefrist: 14. Mai)
+
 - Eine Sammlung potenzieller Interviewfragen mit gut durchdachten Antworten (max. 2 Seiten).
 - Eine Zusammenfassung eines Gesprächs mit einer Person, die kürzlich ein Vorstellungsgespräch absolviert hat, inklusive Reflexion über deren Erfahrungen sowie eine eigene Selbstreflexion (1 Seite).
  
 *Karriereplan (10%)* (Abgabefrist: 4. Juni)
+
 Ein strategischer, individueller Karriereplan (max. 2 Seiten), der Folgendes umfasst:
 - Eine Übersicht über aktuelle Kompetenzen.
 - Eine Strategie für Weiterbildung und Entwicklung, die mindestens fünf karriererelevante Trends identifiziert (z. B. übertragbare Fähigkeiten, Projektmanagement, digitale Kompetenzen), um die Beschäftigungsfähigkeit zu steigern.
 - Eine Liste mit Informationsquellen für Jobmöglichkeiten (z. B. Praktika, Branchenveranstaltungen, Universitätsprogramme, Alumni-Netzwerke).
 - Einen strukturierten Zeitplan für die Stellensuche mit wichtigen Meilensteinen und Fristen.
  
-## 2. Reflexion zu Expertenvorträgen: Schriftliche Aufgaben (60%)
+### 2. Reflexion zu Expertenvorträgen: Schriftliche Aufgaben (60%)
 
-Kurzreflexionen (10 Experten, jeweils 6%) – Nach jeder Gastvorlesung verfassen die Studierenden eine kritische Reflexion, die die wichtigsten Erkenntnisse zusammenfasst und deren Relevanz für den eigenen Karriereweg bewertet.
+*Kurzreflexionen (10 Experten, jeweils 6%)*
+
+– Nach jeder Gastvorlesung verfassen die Studierenden eine kritische Reflexion, die die wichtigsten Erkenntnisse zusammenfasst und deren Relevanz für den eigenen Karriereweg bewertet.
  
 Jede Aufgabe wird nach dem BESTANDEN/NICHT BESTANDEN-Prinzip bewertet. Ein BESTANDEN erfordert eine hohe inhaltliche Qualität. Die Endnote basiert auf dem Anteil der erfolgreich abgeschlossenen Aufgaben.
  
