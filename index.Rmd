@@ -30,8 +30,8 @@ In diesem Kurs erkunden Studierende vielfältige Karrierewege in der Psychologie
 Die Sitzungen finden mittwochs von 16:15 bis 17:45 im Chemiegebäude, Organische Chemie, Großer Hörsaal OC, statt.
 
 ::: l-body
-| # | Date     | Topic                  | Speaker | Slides |
-|---| ---------|------------------------|--------| --------|
+| # | Date | Topic                | Speaker | Slides |
+|---| -----|----------------------|--------| --------|
 | 1 | 19.02.2025 | Intro | Mata/Doshi | [pdf](presentations/KKP_session1.pdf) |
 | 2 | 26.02.2025 | Career preparedness | Birgit Müller | | 
 | 3 | 05.03.2025 | Paartherapie | Patricia Newark | | 
