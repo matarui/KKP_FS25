@@ -33,16 +33,16 @@ Die Sitzungen finden mittwochs von 16:15 bis 17:45 im Chemiegebäude, Organische
 | # | Date | Topic                | Speaker | Slides |
 |---| -----|----------------------|--------| --------|
 | 1 | 19.02.2025 | Intro | Mata/Doshi | [pdf](presentations/KKP_session1.pdf) |
-| 2 | 26.02.2025 | Career preparedness | Birgit Müller | | 
+| 2 | 26.02.2025 | Career preparedness | [Birgit Müller](https://www.unibas.ch/en/Studies/Advice-and-Support/Career-Counseling/Team-CSC.html) | | 
 | 3 | 05.03.2025 | Paartherapie | [Patricia Newark](https://www.therapie-basel.ch/?page_id=215) | | 
-| 4 | 19.03.2025 | Curriculum Vitae | Birgit Müller | |
+| 4 | 19.03.2025 | Curriculum Vitae | [Birgit Müller](https://www.unibas.ch/en/Studies/Advice-and-Support/Career-Counseling/Team-CSC.html) | |
 | 5 | 26.03.2025 | Sportpsychologie |  Allain Meyer | |
-| 6 | 02.04.2025 | Motivationsschreiben | Birgit Müller | |
+| 6 | 02.04.2025 | Motivationsschreiben | [Birgit Müller](https://www.unibas.ch/en/Studies/Advice-and-Support/Career-Counseling/Team-CSC.html) | |
 | 7 | 09.04.2025 | Neuropsychologie | Marianne Scheitter | |
 | 8 | 16.04.2025 | Klinische Psychologie und Nachhaltigkeitskommunikation |  Jannis Behr | |
-| 9 | 23.04.2025 | Risikobeurteilungen im Berufskontext |  [Simon Hardegger] (https://www.linkedin.com/in/simoncarlhardegger/)| |
+| 9 | 23.04.2025 | Risikobeurteilungen im Berufskontext |  [Simon Hardegger](https://www.linkedin.com/in/simoncarlhardegger/)| |
 | 10 | 30.04.2025 | UX | Corinne Reutimann | |
-|11 | 07.05.2025 | Bewerbungsgespräch |  Birgit Müller | |
+|11 | 07.05.2025 | Bewerbungsgespräch | [Birgit Müller](https://www.unibas.ch/en/Studies/Advice-and-Support/Career-Counseling/Team-CSC.html) | |
 |12 | 14.05.2025 | Organisationspsychologie | Sinéad Tschopp | |
 |13 | 21.05.2025 | Prävention gegen Gewalt | Luca Coviello | |
 |14 | 28.05.2025 | Schulpsychologie | Katrin Gossner | |
