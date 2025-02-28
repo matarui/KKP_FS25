@@ -33,7 +33,7 @@ Die Sitzungen finden mittwochs von 16:15 bis 17:45 im Chemiegebäude, Organische
 | # | Date | Topic                | Speaker | Slides |
 |---| -----|----------------------|--------| --------|
 | 1 | 19.02.2025 | Intro | Mata/Doshi | [pdf](presentations/KKP_session1.pdf) |
-| 2 | 26.02.2025 | Career preparedness | [Birgit Müller](https://www.unibas.ch/en/Studies/Advice-and-Support/Career-Counseling/Team-CSC.html) | | 
+| 2 | 26.02.2025 | Career preparedness | [Birgit Müller](https://www.unibas.ch/en/Studies/Advice-and-Support/Career-Counseling/Team-CSC.html) | [pdf](presentations/KKP_session2.pdf)  | 
 | 3 | 05.03.2025 | Paartherapie | [Patricia Newark](https://www.therapie-basel.ch/?page_id=215) | | 
 | 4 | 19.03.2025 | Curriculum Vitae | [Birgit Müller](https://www.unibas.ch/en/Studies/Advice-and-Support/Career-Counseling/Team-CSC.html) | |
 | 5 | 26.03.2025 | Sportpsychologie |  Allain Meyer | |
