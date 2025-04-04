@@ -37,7 +37,7 @@ Die Sitzungen finden mittwochs von 16:15 bis 17:45 im Chemiegebäude, Organische
 | 3 | 05.03.2025 | Paartherapie | [Patricia Newark](https://www.therapie-basel.ch/?page_id=215) | [pdf](presentations/KKP_session3.pdf) | 
 | 4 | 19.03.2025 | Curriculum Vitae | [Birgit Müller](https://www.unibas.ch/en/Studies/Advice-and-Support/Career-Counseling/Team-CSC.html) | [pdf](presentations/KKP_session4.pdf)  |
 | 5 | 26.03.2025 | Sportpsychologie |  [Allain Meyer](https://www.alainmeyer.ch/en) |  [pdf](presentations/KKP_session5.pdf) |
-| 6 | 02.04.2025 | Motivationsschreiben | [Birgit Müller](https://www.unibas.ch/en/Studies/Advice-and-Support/Career-Counseling/Team-CSC.html) | |
+| 6 | 02.04.2025 | Motivationsschreiben | [Birgit Müller](https://www.unibas.ch/en/Studies/Advice-and-Support/Career-Counseling/Team-CSC.html) |  [pdf](presentations/KKP_session6.pdf)  |
 | 7 | 09.04.2025 | Neuropsychologie | Marianne Scheitter | |
 | 8 | 16.04.2025 | Klinische Psychologie und Nachhaltigkeitskommunikation |  Jannis Behr | |
 | 9 | 23.04.2025 | Risikobeurteilungen im Berufskontext |  [Simon Hardegger](https://www.linkedin.com/in/simoncarlhardegger/)| |
@@ -64,7 +64,7 @@ Eine strukturierte Abgabe, bestehend aus:
  
 *Motivationsschreiben (10%)* (eine Seite; Abgabefrist: 9. April)
 
-- Ein überzeugendes, individuell angepasstes Bewerbungsschreiben für eine spezifische Stelle oder ein Praktikum. 
+- Ein überzeugendes, individuell angepasstes Bewerbungsschreiben für eine spezifische Stelle oder ein Praktikum (1 Seite; siehe Folien 7-8 und 23-24 der Präsentation aus Session 6). 
  
 *Vorbereitung auf das Vorstellungsgespräch (10%)* (Abgabefrist: 14. Mai)
 
